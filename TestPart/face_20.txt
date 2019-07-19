@@ -1,0 +1,1 @@
+{"name": "face_20", "stu_emotion": "neutral", "stu_sex": "Female"}
